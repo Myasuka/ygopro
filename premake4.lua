@@ -50,7 +50,7 @@ solution "ygo"
 
     include "ocgcore"
     include "gframe"
-    if os.is("windows") then
+	if os.is("windows") then
     include "event"
     include "freetype"
     include "irrlicht"

@@ -1,0 +1,15 @@
+obj
+irrlicht/lib
+irrlicht/src
+irrlicht/include/*
+event/*
+lua/*
+bin
+sqlite3/*
+freetype/*
+build
+cmake
+*.exe
+!*/premake4.lua
+!*/CMakeLists.txt
+!irrlicht/include/IrrCompileConfig.h
